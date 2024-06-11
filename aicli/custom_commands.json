@@ -1,0 +1,7 @@
+{
+    "custom_commands": {
+        "list_all_pods": "kubectl get pods --all-namespaces",
+        "delete_pod": "kubectl delete pod {pod_name} --namespace {namespace}"
+    }
+}
+
