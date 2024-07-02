@@ -2,6 +2,13 @@
 
 Welcome to `aicli`, an AI-driven command-line interface that enhances your interactions with Kubernetes by leveraging advanced natural language processing. `aicli` simplifies Kubernetes operations, making it accessible to users without in-depth knowledge of kubectl commands. Whether you're managing pods, contexts, or namespaces, `aicli` provides intuitive command execution powered by OpenAI's GPT technology.
 
+
+
+[Screencast from 2024-06-11 20-59-37.webm](https://github.com/singhparavjot/aicli/assets/41161923/4adbd322-5bef-40f2-9ccf-2054b618e059)
+
+
+
+
 ## Installation
 
 `aicli` is easy to install and can be done with just a few commands. Follow these steps to get started:
